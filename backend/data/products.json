@@ -1,0 +1,22 @@
+{
+    "name" : "Apple Iphone 12 64GB",
+    "price" : "800",
+    "description" : "iphone 12 64gb ",
+    "ratings" : 4,
+    "images" : [{
+        "public_id" : "11sssas23",
+        "url" : "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-blue-select-2020?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1604343704000"
+    } , {
+        "public_id" : "11123233223",
+        "url" : "https://media.gq-magazine.co.uk/photos/5f8e92119b357099d70a9e5b/master/w_1280,c_limit/apple_iphone-12_2-up_geo_10132020.jpg"
+    } ,
+    {
+        "public_id" : "1123",
+        "url" : "https://i2.wp.com/techandsciencepost.com/wp-content/uploads/2020/10/Apple-iPhone-12-first-take-Perfect-size-5G-coverage-and.jpg?fit=470%2C393&ssl=1"
+    }],
+    "category" : "smartphones",
+    "seller" : "Mohamed Hesham",
+    "stock" : 3,
+    "numOfReviews" : 32,
+    "reviews": []
+}
